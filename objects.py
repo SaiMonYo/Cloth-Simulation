@@ -53,6 +53,3 @@ def simulate(points, sticks, dt):
                 stick.pointB.position = centre - direction * stick.length / 2
         # but we probably moved another sticks points and thus that stick shrunk or grew
         # so we move them 10 times to balance them out
-            
-
-        
