@@ -12,7 +12,7 @@ sticks = []
 
 # how many points for cloth, could package all of below into function
 how_many_x = 50
-how_many_y = 3
+how_many_y = 50
 dy = int((height - 200) / how_many_y)
 dx = int((width - 200) / how_many_x)
 
